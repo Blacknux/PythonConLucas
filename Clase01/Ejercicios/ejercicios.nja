@@ -1,0 +1,29 @@
+{
+  "mainFile": "C:/Users/Knux/Documents/Curso Python UTN/Clase01/Ejercicios/Ejercicio3 .py", 
+  "use-tabs": false, 
+  "venv": "", 
+  "relatedProjects": [], 
+  "name": "Ejercicios", 
+  "license": "GNU General Public License v3", 
+  "url": "", 
+  "pythonPath": "", 
+  "preExecScript": "", 
+  "additional_builtins": [], 
+  "programParams": "", 
+  "indentation": 4, 
+  "PYTHONPATH": "", 
+  "supported-extensions": [
+    ".py", 
+    ".html", 
+    ".jpg", 
+    ".png", 
+    ".ui", 
+    ".css", 
+    ".json", 
+    ".js", 
+    ".ini"
+  ], 
+  "project-type": "", 
+  "postExecScript": "", 
+  "description": ""
+}
